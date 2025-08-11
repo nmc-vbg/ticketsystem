@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ticketsystem</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+require_once "inc/head.inc.php";
+?>
